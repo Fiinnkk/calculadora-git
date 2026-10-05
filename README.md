@@ -1,1 +1,2 @@
-#calculadora py
+# calculadora py
+## Repositório de estudo sobre git básico
